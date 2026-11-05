@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__victor__COMPOSIO_REMOTE_WORKBENCH",
+      "mcp__victor__COMPOSIO_MULTI_EXECUTE_TOOL"
+    ]
+  }
+}
